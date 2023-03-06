@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "image/sd_pu_2 khoa_den.jpg",
+      "name": "SANDAL HỮU CƯỜNG 2 KHÓA DA PU HANDMADE",
+      "price": 285000
+    },
+     {
+      "id": 2,
+      "image": "image/sd_pu_2 khoa_trang.jpg",
+      "name": "SANDAL HỮU CƯỜNG 2 KHÓA DA PU HANDMADE",
+      "price": 285000
+    },
+    {
+      "id": 3,
+      "image": "image/sd_pu_xo ngon_den.jpg",
+      "name": "SANDAL HỮU CƯỜNG XỎ NGÓN DA PU HANDMADE",
+      "price": 285000
+    },
+    {
+      "id": 4,
+      "image": "image/sd_pu_xo ngon_trang.jpg",
+      "name": "SANDAL HỮU CƯỜNG XỎ NGÓN DA PU HANDMADE",
+      "price": 285000
+    },
+    {
+      "id": 5,
+      "image": "image/dep_pu_quai cheo_den.jpg",
+      "name": "DÉP HỮU CƯỜNG QUAI CHÉO DA PU HANDMADE",
+      "price": 265000
+    },
+    {
+      "id": 6,
+      "image": "image/dep_pu_quai cheo_trang.jpg",
+      "name": "DÉP HỮU CƯỜNG QUAI CHÉO DA PU HANDMADE",
+      "price": 265000
+    },
+    {
+      "id": 7,
+      "image": "image/dep_pu_quai cheo_nau.png",
+      "name": "DÉP HỮU CƯỜNG QUAI CHÉO DA PU HANDMADE",
+      "price": 265000
+    },
+    {
+      "id": 8,
+      "image": "image/dep_pu_kep ngon_den.jpg",
+      "name": "DÉP HỮU CƯỜNG KẸP NGÓN DA PU HANDMADE",
+      "price": 255000
+    },
+    {
+      "id": 9,
+      "image": "image/sd_pu_2 quai_den.jpg",
+      "name": "SANDAL HỮU CƯỜNG 2 QUAI DA PU HANDMADE",
+      "price": 280000
+    }
+  ]
+}

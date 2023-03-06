@@ -1,0 +1,17 @@
+@media screen and (max-width: 648px){
+	.suq{
+		width: 100%;
+	}
+	.nd{
+		padding: 5%
+	}
+	.m_br br{
+		display: none
+	}
+	li br{
+		display: none
+	}
+	.m_in{
+		display: inline-block;
+	}
+}
